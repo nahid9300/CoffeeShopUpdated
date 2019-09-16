@@ -1,0 +1,10 @@
+G:\Study\BITM\Practice\CoffeShop-Updated\CoffeShop-Updated\bin\Debug\CoffeShop-Updated.exe.config
+G:\Study\BITM\Practice\CoffeShop-Updated\CoffeShop-Updated\bin\Debug\CoffeShop-Updated.exe
+G:\Study\BITM\Practice\CoffeShop-Updated\CoffeShop-Updated\bin\Debug\CoffeShop-Updated.pdb
+G:\Study\BITM\Practice\CoffeShop-Updated\CoffeShop-Updated\obj\Debug\CoffeShop-Updated.csprojAssemblyReference.cache
+G:\Study\BITM\Practice\CoffeShop-Updated\CoffeShop-Updated\obj\Debug\CoffeShop_Updated.CoffeShopUI.resources
+G:\Study\BITM\Practice\CoffeShop-Updated\CoffeShop-Updated\obj\Debug\CoffeShop_Updated.Properties.Resources.resources
+G:\Study\BITM\Practice\CoffeShop-Updated\CoffeShop-Updated\obj\Debug\CoffeShop-Updated.csproj.GenerateResource.cache
+G:\Study\BITM\Practice\CoffeShop-Updated\CoffeShop-Updated\obj\Debug\CoffeShop-Updated.csproj.CoreCompileInputs.cache
+G:\Study\BITM\Practice\CoffeShop-Updated\CoffeShop-Updated\obj\Debug\CoffeShop-Updated.exe
+G:\Study\BITM\Practice\CoffeShop-Updated\CoffeShop-Updated\obj\Debug\CoffeShop-Updated.pdb
